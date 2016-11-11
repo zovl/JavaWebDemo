@@ -96,7 +96,7 @@ public class MINAClient {
                 System.out.println("messageSent: session=" + session);
             }
         });
-        final ConnectFuture future = connector.connect(new InetSocketAddress("127.0.0.1", 4722));
+        ConnectFuture future = connector.connect(new InetSocketAddress("127.0.0.1", 4722));
         future.addListener(new IoFutureListener() {
 
             @Override
@@ -104,6 +104,15 @@ public class MINAClient {
 
             }
         });
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        IoSession ioSession = future.getSession();
+        ioSession.write("Client：start");
 
         future.awaitUninterruptibly();
         future.getSession().getCloseFuture().awaitUninterruptibly();
