@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo.mina;
+package zovlzhongguanhua.demo.thread;
 
 import org.apache.mina.core.future.ConnectFuture;
 import org.apache.mina.core.future.IoFuture;
