@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWebDemo.iml" filepath="$PROJECT_DIR$/JavaWebDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/jetty-demo/jetty-demo.iml" filepath="$PROJECT_DIR$/jetty-demo/jetty-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mina-demo/mina-demo.iml" filepath="$PROJECT_DIR$/mina-demo/mina-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket-demo/socket-demo.iml" filepath="$PROJECT_DIR$/socket-demo/socket-demo.iml" />
