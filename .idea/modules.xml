@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWebDemo.iml" filepath="$PROJECT_DIR$/JavaWebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-commons-demo/apache-commons-demo.iml" filepath="$PROJECT_DIR$/apache-commons-demo/apache-commons-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" filepath="$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/jetty-demo/jetty-demo.iml" filepath="$PROJECT_DIR$/jetty-demo/jetty-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mina-demo/mina-demo.iml" filepath="$PROJECT_DIR$/mina-demo/mina-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket-demo/socket-demo.iml" filepath="$PROJECT_DIR$/socket-demo/socket-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unirest-demo/unirest-demo.iml" filepath="$PROJECT_DIR$/unirest-demo/unirest-demo.iml" />
     </modules>
   </component>
 </project>

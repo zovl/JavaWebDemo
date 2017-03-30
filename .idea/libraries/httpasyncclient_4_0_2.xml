@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="httpasyncclient-4.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unirest-demo/lib/httpasyncclient-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unirest-demo/lib/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unirest-demo/lib/httpmime-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unirest-demo/lib/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/unirest-demo/lib/unirest-java-1.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/unirest-java-1.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
