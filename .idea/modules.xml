@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWebDemo.iml" filepath="$PROJECT_DIR$/JavaWebDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/apache-commons-demo/apache-commons-demo.iml" filepath="$PROJECT_DIR$/apache-commons-demo/apache-commons-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-request/http-request.iml" filepath="$PROJECT_DIR$/http-request/http-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-request-demo/http-request-demo.iml" filepath="$PROJECT_DIR$/http-request-demo/http-request-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" filepath="$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/jetty-demo/jetty-demo.iml" filepath="$PROJECT_DIR$/jetty-demo/jetty-demo.iml" />
