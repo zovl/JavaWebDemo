@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.socket;
 
 import java.io.BufferedReader;
 import java.io.IOException;

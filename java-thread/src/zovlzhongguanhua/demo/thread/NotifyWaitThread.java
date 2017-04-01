@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.thread;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;

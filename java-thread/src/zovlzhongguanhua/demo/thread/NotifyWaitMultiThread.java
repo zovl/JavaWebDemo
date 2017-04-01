@@ -1,9 +1,8 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.thread;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * wait/notify对多线程的控制

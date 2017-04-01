@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.thread;
 
 /**
  * 多个线程

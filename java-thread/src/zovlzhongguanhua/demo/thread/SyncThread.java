@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.thread;
 
 /**
  * 同步关键字

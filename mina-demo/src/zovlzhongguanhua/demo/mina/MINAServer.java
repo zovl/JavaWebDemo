@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.mina;
 
 import org.apache.mina.core.session.IoSession;
 import org.apache.mina.example.echoserver.EchoProtocolHandler;

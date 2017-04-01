@@ -1,6 +1,9 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.unirest;
 
-import com.mashape.unirest.http.*;
+import com.mashape.unirest.http.Headers;
+import com.mashape.unirest.http.HttpMethod;
+import com.mashape.unirest.http.HttpResponse;
+import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 import com.mashape.unirest.request.BaseRequest;
 import com.mashape.unirest.request.HttpRequest;

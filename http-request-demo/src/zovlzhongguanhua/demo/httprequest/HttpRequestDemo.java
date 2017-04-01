@@ -1,13 +1,13 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.httprequest;
 
 import com.github.kevinsawicki.http.HttpRequest;
 
 import java.io.File;
-import java.io.IOException;
-import java.net.HttpURLConnection;
-import java.net.Proxy;
 import java.net.URL;
-import java.util.*;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 public class HttpRequestDemo {
 

@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.httpclient;
 
 import org.apache.http.*;
 import org.apache.http.client.ClientProtocolException;
@@ -32,7 +32,6 @@ import org.apache.http.protocol.HttpContext;
 import org.apache.http.util.EntityUtils;
 
 import java.io.*;
-import java.net.HttpURLConnection;
 import java.nio.CharBuffer;
 import java.util.ArrayList;
 import java.util.List;

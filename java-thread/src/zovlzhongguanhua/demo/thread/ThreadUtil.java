@@ -1,4 +1,4 @@
-package zovlzhongguanhua.demo;
+package zovlzhongguanhua.demo.thread;
 
 import java.lang.management.*;
 import java.util.logging.Logger;
