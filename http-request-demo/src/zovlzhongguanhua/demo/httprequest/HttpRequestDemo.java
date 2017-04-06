@@ -13,7 +13,7 @@ public class HttpRequestDemo {
 
     public static void main(String[] args) {
 
-        // doGet();
+        doGet();
         // doGetReceiveSystem();
         // doGetReceiveFile();
 
@@ -127,6 +127,8 @@ public class HttpRequestDemo {
         // InputStreamReader reader = request.reader();
         // OutputStreamWriter writer = request.writer();
         // InputStream stream = request.stream();
+
+        System.out.println("-------------------->");
 
         System.out.println("code：" + code);
         System.out.println("bufferSize：" + bufferSize);

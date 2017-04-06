@@ -7,11 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/http-request/http-request.iml" filepath="$PROJECT_DIR$/http-request/http-request.iml" />
       <module fileurl="file://$PROJECT_DIR$/http-request-demo/http-request-demo.iml" filepath="$PROJECT_DIR$/http-request-demo/http-request-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" filepath="$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-socket/socket-demo.iml" filepath="$PROJECT_DIR$/java-socket/socket-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-stream/java-stream.iml" filepath="$PROJECT_DIR$/java-stream/java-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-util-demo/java-util-demo.iml" filepath="$PROJECT_DIR$/java-util-demo/java-util-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-util/java-util-demo.iml" filepath="$PROJECT_DIR$/java-util/java-util-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/jetty-demo/jetty-demo.iml" filepath="$PROJECT_DIR$/jetty-demo/jetty-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mina-demo/mina-demo.iml" filepath="$PROJECT_DIR$/mina-demo/mina-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/socket-demo/socket-demo.iml" filepath="$PROJECT_DIR$/socket-demo/socket-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/unirest-demo/unirest-demo.iml" filepath="$PROJECT_DIR$/unirest-demo/unirest-demo.iml" />
     </modules>
   </component>
