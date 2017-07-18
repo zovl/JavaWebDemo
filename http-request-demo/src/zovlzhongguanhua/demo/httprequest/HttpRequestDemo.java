@@ -13,13 +13,13 @@ public class HttpRequestDemo {
 
     public static void main(String[] args) {
 
-        doGet();
+        // doGet();
         // doGetReceiveSystem();
         // doGetReceiveFile();
 
         // doPostSendString();
         // doPostSendFile();
-        // doPostForm();
+        doPostForm();
         // doPostPartFile();
     }
 

@@ -44,7 +44,7 @@ public class ClientDemo {
 
     public static void main(String[] args) {
 
-        // doGet();
+        doGet();
         // doPost();
         // uploadFile();
         // mutilPart();
@@ -56,8 +56,8 @@ public class ClientDemo {
 
         // futureGet();
         // futureCallbackGet();
-        futureCallbackStreamGet();
-
+        // futureCallbackStreamGet();
+/*
         PoolingHttpClientConnectionManager cm = new PoolingHttpClientConnectionManager();
         cm.setMaxTotal(100);
         CloseableHttpClient httpClient = HttpClients.custom()
@@ -67,7 +67,7 @@ public class ClientDemo {
             httpClient.close();
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
     }
 
     // -----------------------------------------------------------------------------------------------------------------

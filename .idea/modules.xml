@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/http-request/http-request.iml" filepath="$PROJECT_DIR$/http-request/http-request.iml" />
       <module fileurl="file://$PROJECT_DIR$/http-request-demo/http-request-demo.iml" filepath="$PROJECT_DIR$/http-request-demo/http-request-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" filepath="$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-grammar/java-grammar.iml" filepath="$PROJECT_DIR$/java-grammar/java-grammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-gson/java-gson.iml" filepath="$PROJECT_DIR$/java-gson/java-gson.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-socket/java-socket.iml" filepath="$PROJECT_DIR$/java-socket/java-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-stream/java-stream.iml" filepath="$PROJECT_DIR$/java-stream/java-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />

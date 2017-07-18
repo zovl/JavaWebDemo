@@ -3,7 +3,7 @@ package zovlzhongguanhua.demo.thread;
 /**
  * 同步关键字
  */
-public class SyncThread {
+public class SynchronizedDemo {
 
     public static void main(String[] args) {
 

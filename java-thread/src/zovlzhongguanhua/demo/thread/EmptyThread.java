@@ -25,10 +25,7 @@ public class EmptyThread {
         public void run() {
             super.run();
 
-            // 循环
-            while (true) {
-
-            }
+            while (true) {}
         }
     }
 }
